@@ -1,54 +1,57 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.gif" alt="cute banner" width="720">
+  <img src="<https://www.pinterest.com/pin/578290408441044136/>" alt="chibi banner" width="720">
 </p>
 
-<h1 align="center">Hi, I'm Choco 🍓🌸</h1>
-<p align="center">✨ Frontend cutie | UI lover | Cozy coder ✨</p>
+<h1 align="center">🌸 Hello, I'm Nguyễn Quang Khải 🌸</h1>
+<h3 align="center">a.k.a. chocomica 🐰 | CNTT student at Đại học Bách Khoa</h3>
 
-<p align="center">
-  <a href="https://github.com/your-username?tab=followers">
-    <img src="https://img.shields.io/github/followers/your-username?style=for-the-badge&logo=github&label=Followers&color=ffd1dc">
-  </a>
-  <img src="https://img.shields.io/badge/mood-cute-ffb3c6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/coffee-iced%20latte-fde2e4?style=for-the-badge">
+<p align="center"><i>"i love mica , i love choco"</i> 🍫✨</p>
+
+---
+
+## 🐇 About me
+- 🎓 Sinh viên CNTT tại **Đại học Bách Khoa**  
+- 🌱 Hiện tại đang **thực tập** và học hỏi thêm  
+- 🖤 Yêu thích **C++** & trải nghiệm cùng **AI**  
+- 💡 Tò mò, kiên nhẫn, thích làm mọi thứ trở nên “cute” 🌸
+
+---
+
+## 🍬 Skills
+<p>
+  <img alt="C++" src="https://img.shields.io/badge/C++-f7f9ff?logo=cplusplus&logoColor=5e92f2&style=for-the-badge">
+  <img alt="AI/ML" src="https://img.shields.io/badge/AI-fffbea?logo=openai&logoColor=f6c90e&style=for-the-badge">
+  <img alt="Student" src="https://img.shields.io/badge/Learning-Everday-fff5f7?style=for-the-badge&color=ffd6a5">
 </p>
 
 ---
 
-### 🌸 About me
-- 🐰 I love pastel UIs & tiny micro-interactions
-- 🍰 Currently playing with React & Tailwind
-- 💌 Open to collabs: your_email@example.com
+## 🍀 Featured Project
+### [MerkleKV](https://github.com/NQKhaixyz/MerkleKV) 🌸  
+🔹 A key-value store using Merkle tree verification.  
+🔹 Focused on **data integrity** & **consistency**.  
+🔹 Written with love in **C++** 🐇
 
-### 🍓 Tech I sprinkle on
-<p>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-ffe3ed?logo=html5&logoColor=ff6fa5&style=for-the-badge">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-ffe3ed?logo=css3&logoColor=ff6fa5&style=for-the-badge">
-  <img alt="JS" src="https://img.shields.io/badge/JS-ffe3ed?logo=javascript&logoColor=ff6fa5&style=for-the-badge">
-  <img alt="React" src="https://img.shields.io/badge/React-ffe3ed?logo=react&logoColor=ff6fa5&style=for-the-badge">
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-ffe3ed?logo=tailwindcss&logoColor=ff6fa5&style=for-the-badge">
-</p>
+---
 
-### ✨ Cute widgets
-<!-- Visitor counter -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Visits&color=ff9ebb&style=flat" alt="profile views"/>
-</p>
-
-<!-- GitHub Stats (chọn theme pastel) -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&theme=tokyonight&hide=prs&custom_title=Stats&include_all_commits=true" height="140">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="140">
-</p>
-
-### 🧁 Latest projects
-- 🌷 [Cute UI Kit](https://github.com/your-username/cute-ui-kit) – pastel components
-- 🍑 [Peachy Portfolio](https://github.com/your-username/peachy-portfolio) – soft glassmorphism
-
-### 🐾 Fun corner
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/cat-stamp.gif" width="120">
+  <img src="https://github-readme-stats.vercel.app/api?username=NQKhaixyz&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&custom_title=Stats&include_all_commits=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NQKhaixyz&layout=compact&theme=tokyonight&hide_border=true" height="150">
 </p>
 
-> “code softly, ship sweetly” 🍬
+---
+
+## 💌 Contact me
+- 🌐 [Facebook](https://www.facebook.com/NQKhai2k6)  
+- 🐾 Discord: `kimikoliliana`
+
+---
+
+## 🐾 Fun corner
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NQKhaixyz/NQKhaixyz/main/assets/cute-stamp.gif" width="120">
+</p>
+
+<p align="center">“code softly, dream brightly” 🌸</p>
