@@ -1,0 +1,34 @@
+name: Generate Optimized Assets
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'assets/raw/**'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Install tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick gifsicle pngquant
+      - name: Generate assets
+        run: |
+          bash scripts/generate-assets.sh
+      - name: Commit generated assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.gif assets/*.png || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(assets): auto-generate optimized GIFs/PNGs from raw"
+            git push
+          else
+            echo "No changes to commit."
+          fi
