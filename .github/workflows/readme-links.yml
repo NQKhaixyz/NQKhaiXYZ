@@ -1,0 +1,32 @@
+name: Check README Links
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'README.md'
+  pull_request:
+    branches: [ main ]
+    paths:
+      - 'README.md'
+  workflow_dispatch:
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1.10.0
+        with:
+          args: --no-progress --timeout 20 --max-concurrency 4 README.md
+          fail: true
+        env:
+          LYCHEE_EXCLUDE: |
+            ^mailto:
+          LYCHEE_ACCEPT: |
+            https://readme-typing-svg.demolab.com
+            https://komarev.com
+            https://github-readme-stats.vercel.app
+            https://streak-stats.demolab.com
+            https://raw.githubusercontent.com
