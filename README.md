@@ -79,12 +79,44 @@
 
 ## Projects 💜
 
-- [MerkleKV](https://github.com/NQKhaixyz/MerkleKV) — a key-value store with Merkle tree verification for integrity and consistency. ![C++](https://img.shields.io/badge/C++-1e90ff?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=1e90ff&color=1e90ff) ✨
-- [cozy-systems-lab](https://github.com/NQKhaixyz/cozy-systems-lab) — small experiments on OS, networking, and performance. ![C](https://img.shields.io/badge/C-1e90ff?style=flat-square&logo=c&logoColor=white&labelColor=1e90ff&color=1e90ff) ![Linux](https://img.shields.io/badge/Linux-1e90ff?style=flat-square&logo=linux&logoColor=white&labelColor=1e90ff&color=1e90ff) 🌙
-- [mica-toolkit](https://github.com/NQKhaixyz/mica-toolkit) — tiny CLI helpers to speed up daily workflows. ![Node.js](https://img.shields.io/badge/Node.js-1e90ff?style=flat-square&logo=node.js&logoColor=white&labelColor=1e90ff&color=1e90ff) ![TypeScript](https://img.shields.io/badge/TS-1e90ff?style=flat-square&logo=typescript&logoColor=white&labelColor=1e90ff&color=1e90ff) 🐣
-- [blue-backend-starter](https://github.com/NQKhaixyz/blue-backend-starter) — clean Express starter with linting, tests, and Docker. ![Express](https://img.shields.io/badge/Express-1e90ff?style=flat-square&logo=express&logoColor=white&labelColor=1e90ff&color=1e90ff) ![Docker](https://img.shields.io/badge/Docker-1e90ff?style=flat-square&logo=docker&logoColor=white&labelColor=1e90ff&color=1e90ff) ⭐
-- [chibi-algos](https://github.com/NQKhaixyz/chibi-algos) — neat algorithm solutions with concise explanations. ![C++](https://img.shields.io/badge/C++-1e90ff?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=1e90ff&color=1e90ff) ![Python](https://img.shields.io/badge/Python-1e90ff?style=flat-square&logo=python&logoColor=white&labelColor=1e90ff&color=1e90ff) 📘
-- [gentle-notes](https://github.com/NQKhaixyz/gentle-notes) — blue–white wiki for learning progress and tips. ![Markdown](https://img.shields.io/badge/Markdown-1e90ff?style=flat-square&logo=markdown&logoColor=white&labelColor=1e90ff&color=1e90ff) 🍫
+<table>
+  <tr>
+    <td>
+      <strong>MerkleKV ✨</strong><br/>
+      <a href="https://github.com/NQKhaixyz/MerkleKV">Verifiable KV store w/ Merkle proofs</a><br/>
+      <sub>![C++](https://img.shields.io/badge/C++-1e90ff?style=flat-square&logo=c%2B%2B&logoColor=white)</sub>
+    </td>
+    <td>
+      <strong>cozy-systems-lab 🌙</strong><br/>
+      <a href="https://github.com/NQKhaixyz/cozy-systems-lab">OS/network/perf notes & experiments</a><br/>
+      <sub>![C](https://img.shields.io/badge/C-1e90ff?style=flat-square&logo=c&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-1e90ff?style=flat-square&logo=linux&logoColor=white)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>mica-toolkit 🐣</strong><br/>
+      <a href="https://github.com/NQKhaixyz/mica-toolkit">Tiny TypeScript/Node CLIs</a><br/>
+      <sub>![TS](https://img.shields.io/badge/TS-1e90ff?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-1e90ff?style=flat-square&logo=node.js&logoColor=white)</sub>
+    </td>
+    <td>
+      <strong>blue-backend-starter ⭐</strong><br/>
+      <a href="https://github.com/NQKhaixyz/blue-backend-starter">Express starter · lint · tests · Docker</a><br/>
+      <sub>![Express](https://img.shields.io/badge/Express-1e90ff?style=flat-square&logo=express&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-1e90ff?style=flat-square&logo=docker&logoColor=white)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>chibi-algos 📘</strong><br/>
+      <a href="https://github.com/NQKhaixyz/chibi-algos">Neat algo solutions</a><br/>
+      <sub>![C++](https://img.shields.io/badge/C++-1e90ff?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-1e90ff?style=flat-square&logo=python&logoColor=white)</sub>
+    </td>
+    <td>
+      <strong>gentle-notes 🍫</strong><br/>
+      <a href="https://github.com/NQKhaixyz/gentle-notes">Blue–white learning wiki</a><br/>
+      <sub>![Markdown](https://img.shields.io/badge/Markdown-1e90ff?style=flat-square&logo=markdown&logoColor=white)</sub>
+    </td>
+  </tr>
+  </table>
 
 <p align="center">
   <img src="assets/chibi-divider-gothic.svg" alt="gothic sparkle divider" height="28" />
@@ -95,7 +127,9 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=NQKhaixyz&show_icons=true&title_color=1e90ff&text_color=2b2b2b&icon_color=d4af37&border_color=e5e7eb&bg_color=f7f9ff" alt="GitHub stats for NQKhaixyz" height="140" />
   <img src="https://streak-stats.demolab.com?user=NQKhaixyz&ring=d4af37&fire=ff7aa2&currStreakLabel=1e90ff&border=e5e7eb&background=f7f9ff" alt="GitHub contribution streak for NQKhaixyz" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NQKhaixyz&layout=compact&title_color=1e90ff&text_color=2b2b2b&border_color=e5e7eb&bg_color=f7f9ff" alt="Top languages used by NQKhaixyz" height="140" />
+  <span style="display:inline-block; position:relative;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NQKhaixyz&layout=compact&title_color=1e90ff&text_color=2b2b2b&border_color=e5e7eb&bg_color=f7f9ff" alt="Top languages used by NQKhaixyz" height="140" />
+  </span>
 </div>
 
 <p align="center">
