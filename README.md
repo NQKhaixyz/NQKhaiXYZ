@@ -56,9 +56,7 @@
   
 - 🐙 **Contribution Graph**  
   [![Khải's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NQKhaixyz&bg_color=f7f9ff&color=5e92f2&line=f6c90e&point=333333&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-- 🌟 **Pinned Repositories**  
-  > Hãy ghim thêm 2–4 repo mà bạn muốn show để profile nhìn cân đối hơn.  
+  
 
 ---
 
