@@ -6,13 +6,13 @@ This repository powers your GitHub profile README. Use this file as a checklist 
 - assets/chibi-wave.gif — alt: "chibi waving hello" — Hero (top-right), height 80px, < 2MB
 - assets/chibi-coffee.gif — alt: "chibi sipping coffee" — Gallery, height 72px, < 1.5MB
 - assets/chibi-type.gif — alt: "chibi typing calmly" — Gallery, height 72px, < 1.5MB
-- assets/chibi-star.gif — alt: "chibi holding a star" — Gallery, height 72px, < 1.5MB
+- assets/chibi-star.gif — alt: "chibi holding a star, sparkles" — Gallery, height 72px, < 1.5MB
 - assets/chibi-read.gif — alt: "chibi reading a book" — Gallery, height 72px, < 1.5MB
-- assets/chibi-divider.gif — alt: "tiny chibi divider" — Footer divider, height 32px, < 500KB
+- assets/chibi-divider-gothic.svg — alt: "gothic sparkle divider" — Section breaks, height 28–32px
 
 ## Optional Profile Visuals
-- assets/profile-avatar.png — alt: "soft blue-white avatar with sparkles" — 400×400 PNG
-- assets/profile-banner.png — alt: "starry soft-blue gradient banner" — ~1280×360 PNG
+- assets/profile-avatar.png — alt: "radiant chibi avatar (CM initials, sparkles)" — 400×400 PNG
+- assets/profile-banner.png — alt: "starry gradient banner (blue × red-gold × pink)" — ~1280×360 PNG
 - assets/profile-banner.svg — scalable banner (template provided)
 - assets/profile-avatar.svg — scalable avatar (template provided)
 
@@ -35,6 +35,10 @@ gifsicle -O3 --colors=128 --lossy=30 input.gif -o output.gif
 # PNG optimization
 # requires: pngquant (or use oxipng/optipng)
 pngquant --quality=70-90 --strip --force --output optimized.png input.png
+
+# APNG alternative (optional)
+# requires: apngasm
+# apngasm output.png frame1.png 1 frame2.png 1 ...
 ```
 
 ## Accessibility
@@ -46,6 +50,8 @@ pngquant --quality=70-90 --strip --force --output optimized.png input.png
 2) Commit and push. Verify README renders on GitHub.
 3) If you rename any asset, update the paths in `README.md` accordingly.
 4) Placeholders: `.svg` placeholders are provided for all chibi GIFs. You can keep them as-is or replace them with your final `.gif` versions at any time.
+
+Tip: Keep each GIF loop calm (low FPS, subtle motion) to match Mahiru/Kurumi/Nino vibes.
 
 ## Sourcing Guidance and AI Prompt
 

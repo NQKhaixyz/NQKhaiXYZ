@@ -1,29 +1,57 @@
 <div align="right">
+  <!-- Swap to .gif when ready: assets/chibi-wave.gif -->
   <img src="assets/chibi-wave.svg" alt="chibi waving hello" height="80" />
 </div>
 
-# Nguyễn Quang Khải · Choco Mica
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=720&lines=Nguy%E1%BB%85n+Quang+Kh%E1%BA%A3i+%C2%B7+Choco+Mica;Gentle+%E2%80%A2+Elegant+%E2%80%A2+Lively" alt="Typing header: Nguyễn Quang Khải · Choco Mica" />
+</p>
 
-Gentle, cozy, wholesome energy — professional layout with cute chibi touches.
+<p align="center">
+  <!-- Use PNG banner when available: assets/profile-banner.png -->
+  <img src="assets/profile-banner.svg" alt="starry gradient banner (blue × red-gold × pink)" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NQKhaixyz&label=Visitors&color=1e90ff&style=flat" alt="visitor badge" />
+  <img alt="vibe: Mahiru" src="https://img.shields.io/badge/Mahiru-soft%20blue-1e90ff?style=flat-square&labelColor=1e90ff&color=1e90ff&logoColor=white" />
+  <img alt="vibe: Kurumi" src="https://img.shields.io/badge/Kurumi-gothic%20sparkle-d4af37?style=flat-square&labelColor=111827&color=d4af37" />
+  <img alt="vibe: Nino" src="https://img.shields.io/badge/Nino-tsundere%20cute-ff7aa2?style=flat-square&labelColor=8a7cf4&color=ff7aa2" />
+</p>
+
+<p align="center">
+  <img src="assets/chibi-divider-gothic.svg" alt="gothic sparkle divider" height="28" />
+</p>
+
+## About · Skills · Learning
 
 <table>
   <tr>
-    <td width="96">
-  <img src="assets/profile-avatar.svg" alt="Choco Mica avatar (soft blue-white with sparkles)" width="88" />
+    <td width="110" align="center">
+      <!-- Use PNG avatar when available: assets/profile-avatar.png -->
+      <img src="assets/profile-avatar.svg" alt="Choco Mica avatar (soft blue-white with sparkles)" width="88" />
+      <div><sub>“tôi yêu Micaa và choco”</sub></div>
     </td>
     <td>
-      <p><strong>Slogan:</strong> “tôi yêu Micaa và choco”</p>
-      <p>
-        <em>Mahiru softness (blue–white) · Kurumi elegance (subtle night accents) · Nino charm (playful highlights)</em>
-      </p>
+      <strong>About Me 🌸</strong>
+      <br/>
+      I’m Nguyễn Quang Khải (aka <em>Choco Mica</em>), a Computer Engineering student at HUST. I enjoy building clean, user‑friendly tools and learning systems. I love blue–white aesthetics, gentle vibes, and chibi art.
+      <br/><br/>
+      <strong>Currently Learning ✨</strong>
+      <ul>
+        <li>Systems and backend foundations</li>
+        <li>Algorithms and data structures practice</li>
+        <li>Modern TypeScript tooling and testing</li>
+      </ul>
+      <strong>Goals 🌙</strong>
+      <ul>
+        <li>Build reliable, well‑tested backend services</li>
+        <li>Document learning clearly and share concise notes</li>
+        <li>Balance performance with readability</li>
+      </ul>
     </td>
   </tr>
-  
 </table>
-
-## About Me
-
-I’m Nguyễn Quang Khải (aka Choco Mica), a Computer Engineering student at Hanoi University of Science and Technology. I enjoy building clean, user-friendly tools and learning systems. I love blue–white aesthetics, gentle vibes, and chibi art.
 
 ## Skills
 
@@ -45,7 +73,11 @@ I’m Nguyễn Quang Khải (aka Choco Mica), a Computer Engineering student at 
 - Document learning clearly and share concise notes
 - Keep performance in mind without sacrificing readability
 
-## Projects
+<p align="center">
+  <img src="assets/chibi-divider-gothic.svg" alt="gothic sparkle divider" height="28" />
+</p>
+
+## Projects 💜
 
 - [MerkleKV](https://github.com/NQKhaixyz/MerkleKV) — a key-value store with Merkle tree verification for integrity and consistency. ![C++](https://img.shields.io/badge/C++-1e90ff?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=1e90ff&color=1e90ff) ✨
 - [cozy-systems-lab](https://github.com/NQKhaixyz/cozy-systems-lab) — small experiments on OS, networking, and performance. ![C](https://img.shields.io/badge/C-1e90ff?style=flat-square&logo=c&logoColor=white&labelColor=1e90ff&color=1e90ff) ![Linux](https://img.shields.io/badge/Linux-1e90ff?style=flat-square&logo=linux&logoColor=white&labelColor=1e90ff&color=1e90ff) 🌙
@@ -54,22 +86,50 @@ I’m Nguyễn Quang Khải (aka Choco Mica), a Computer Engineering student at 
 - [chibi-algos](https://github.com/NQKhaixyz/chibi-algos) — neat algorithm solutions with concise explanations. ![C++](https://img.shields.io/badge/C++-1e90ff?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=1e90ff&color=1e90ff) ![Python](https://img.shields.io/badge/Python-1e90ff?style=flat-square&logo=python&logoColor=white&labelColor=1e90ff&color=1e90ff) 📘
 - [gentle-notes](https://github.com/NQKhaixyz/gentle-notes) — blue–white wiki for learning progress and tips. ![Markdown](https://img.shields.io/badge/Markdown-1e90ff?style=flat-square&logo=markdown&logoColor=white&labelColor=1e90ff&color=1e90ff) 🍫
 
-## Stats
+<p align="center">
+  <img src="assets/chibi-divider-gothic.svg" alt="gothic sparkle divider" height="28" />
+</p>
+
+## Stats ✨
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=NQKhaixyz&show_icons=true&title_color=1e90ff&text_color=2b2b2b&icon_color=1e90ff&border_color=e5e7eb&bg_color=f7f9ff" alt="GitHub stats for NQKhaixyz" height="140" />
-  <img src="https://streak-stats.demolab.com?user=NQKhaixyz&ring=1e90ff&fire=1e90ff&currStreakLabel=1e90ff&border=e5e7eb&background=f7f9ff" alt="GitHub contribution streak for NQKhaixyz" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NQKhaixyz&show_icons=true&title_color=1e90ff&text_color=2b2b2b&icon_color=d4af37&border_color=e5e7eb&bg_color=f7f9ff" alt="GitHub stats for NQKhaixyz" height="140" />
+  <img src="https://streak-stats.demolab.com?user=NQKhaixyz&ring=d4af37&fire=ff7aa2&currStreakLabel=1e90ff&border=e5e7eb&background=f7f9ff" alt="GitHub contribution streak for NQKhaixyz" height="140" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NQKhaixyz&layout=compact&title_color=1e90ff&text_color=2b2b2b&border_color=e5e7eb&bg_color=f7f9ff" alt="Top languages used by NQKhaixyz" height="140" />
 </div>
 
-## Gallery
+<p align="center">
+  <sub>Bonus: soft blue/purple contribution snake below.</sub>
+</p>
+
+<p align="center">
+  <!-- Palette customized via query params -->
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/NQKhaixyz/NQKhaiXYZ/output/snake.svg?color_snake=1e90ff&color_dots=cee0ff,8a7cf4,ff7aa2,d4af37" />
+</p>
+
+<p align="center">
+  <img src="assets/chibi-divider-gothic.svg" alt="gothic sparkle divider" height="28" />
+</p>
+
+## Gallery 🌸
 
 <div>
+  <!-- Swap these to .gif when available (same filenames with .gif) -->
   <img src="assets/chibi-coffee.svg" alt="chibi sipping coffee" height="72" />
   <img src="assets/chibi-type.svg" alt="chibi typing calmly" height="72" />
   <img src="assets/chibi-star.svg" alt="chibi holding a star" height="72" />
   <img src="assets/chibi-read.svg" alt="chibi reading a book" height="72" />
 </div>
+
+<p align="center">
+  <img src="assets/chibi-divider-gothic.svg" alt="gothic sparkle divider" height="28" />
+</p>
+
+## Waifu Inspiration · Quote of the Day 🌙
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=4000&pause=1000&color=8A7CF4&width=720&lines=Mahiru%3A+Soft+focus%2C+clean+layouts%2C+gentle+progress.;Kurumi%3A+Elegant+mystery%2C+sparkles+in+the+dark.;Nino%3A+Bold+energy%2C+push+forward+with+heart.+%F0%9F%92%9C" alt="Waifu inspiration quotes" />
+</p>
 
 ## Fun Facts
 
@@ -77,7 +137,11 @@ I’m Nguyễn Quang Khải (aka Choco Mica), a Computer Engineering student at 
 - Kurumi: I love subtle night-sky accents and elegant details.
 - Nino: I enjoy bold, modern touches and playful energy.
 
-## Contact & Socials
+<p align="center">
+  <img src="assets/chibi-divider-gothic.svg" alt="gothic sparkle divider" height="28" />
+</p>
+
+## Contact & Socials 💌
 
 - Facebook: <a href="https://www.facebook.com/NQKhai2k6" rel="me">facebook.com/NQKhai2k6</a>
 - Email: <em>your.email@domain.com</em> (replace with your contact)
