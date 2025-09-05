@@ -1,0 +1,26 @@
+name: Optimize Images
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - 'assets/**.png'
+      - 'assets/**.jpg'
+      - 'assets/**.jpeg'
+
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+      - name: Optimize PNG/JPG
+        uses: calibreapp/image-actions@v1.1.0
+        with:
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
+          compressOnly: true
+          jpegQuality: '80'
+          pngQuality: '70-90'
+          ignorePaths: 'node_modules/**,**/*.svg,**/*.gif'

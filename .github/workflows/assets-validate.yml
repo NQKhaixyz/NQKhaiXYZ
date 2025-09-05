@@ -1,0 +1,43 @@
+name: Validate Asset Sizes
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'assets/**'
+  pull_request:
+    branches: [ main ]
+    paths:
+      - 'assets/**'
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Enforce size limits
+        shell: bash
+        run: |
+          set -euo pipefail
+          fail=0
+          echo "Checking GIFs (<2MB)"
+          while IFS= read -r -d '' f; do
+            size=$(stat -c%s "$f")
+            if [ "$size" -gt 2097152 ]; then
+              echo "::error file=$f::GIF exceeds 2MB ($size bytes)"; fail=1
+            else
+              echo "OK: $f ($size bytes)"
+            fi
+          done < <(find assets -type f -name '*.gif' -print0)
+
+          echo "Checking PNGs (warn > 500KB)"
+          while IFS= read -r -d '' f; do
+            size=$(stat -c%s "$f")
+            if [ "$size" -gt 512000 ]; then
+              echo "::warning file=$f::PNG larger than 500KB ($size bytes)"
+            else
+              echo "OK: $f ($size bytes)"
+            fi
+          done < <(find assets -type f -name '*.png' -print0)
+
+          exit $fail
