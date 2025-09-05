@@ -60,16 +60,21 @@ Use only assets you have rights to. Inspiration links (Pinterest/Tenor/Zerochan/
 - AI-generated art you own the rights to
 - Public domain or permissively licensed works (Openverse, CC0, CC BY)
 
-AI generation prompt (edit names/styles as needed):
+AI generation prompt (edit for your tool and style):
 
-Prompt:
+Ultra-detailed chibi anime illustration of Mahiru Shiina, Kurumi Tokisaki, and Nino Nakano,
+vivid radiant colors, sparkling light effects, dreamy magical bokeh,
+adorable proportions, kawaii expressive faces, soft glowing hair with colorful highlights,
+Mahiru: gentle soft blue-white aura, cozy and wholesome,
+Kurumi: gothic black-red-gold sparkles, mysterious and elegant,
+Nino: lively pink-purple accents, tsundere playful charm,
+background layered gradient (blue sky + starry night + soft pink glow),
+fantasy magical atmosphere, glowing sparkles around, professional polished anime art,
+highly vibrant, web optimized for profile aesthetics, <2MB per GIF, calm loop (low FPS).
 
-Chibi anime art of [Mahiru Shiina / Kurumi Tokisaki / Nino Nakano]
-soft detailed style, clean lines, pastel palette,
-expressive kawaii face, tiny proportions,
-looping motion (wave / sip coffee / typing / holding star / reading),
-background soft gradient (blue-white, red-gold gothic, or pink-purple tsundere),
-sparkles, cute accessories, professional polished finish,
-optimized for web <2MB GIF.
+Negative prompt: nsfw, explicit, violent, low quality, blurry, text, watermark, cluttered background
 
-Negative prompt: nsfw, low quality, blurry, text, watermark, cluttered background
+Vibe placements in README:
+- Hero: Mahiru coffee chibi (assets/chibi-coffee.gif)
+- Gallery: Kurumi star chibi (assets/chibi-star.gif), Nino typing (assets/chibi-type.gif), Mahiru reading (assets/chibi-read.gif), Mahiru wave (assets/chibi-wave.gif)
+- Banner: layered gradient of Mahiru × Kurumi × Nino (assets/profile-banner.png)

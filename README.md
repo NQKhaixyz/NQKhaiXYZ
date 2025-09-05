@@ -1,6 +1,6 @@
 <div align="right">
-  <!-- Swap to .gif when ready: assets/chibi-wave.gif -->
-  <img src="assets/chibi-wave.svg" alt="chibi waving hello" height="80" />
+  <!-- Hero: Mahiru coffee chibi (swap to .gif when ready) -->
+  <img src="assets/chibi-coffee.svg" alt="Mahiru chibi sipping coffee (gentle blue–white)" height="80" />
 </div>
 
 <p align="center">
@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <!-- Use PNG banner when available: assets/profile-banner.png -->
-  <img src="assets/profile-banner.svg" alt="starry gradient banner (blue × red-gold × pink)" width="100%" />
+  <!-- Banner: layered gradient (Mahiru blue–white × Kurumi red–gold × Nino pink–purple). Use PNG when ready: assets/profile-banner.png -->
+  <img src="assets/profile-banner.svg" alt="banner: layered gradient (blue sky · starry night · soft pink glow) with sparkles" width="100%" />
 </p>
 
 <p align="center">
@@ -114,11 +114,11 @@
 ## Gallery 🌸
 
 <div>
-  <!-- Swap these to .gif when available (same filenames with .gif) -->
-  <img src="assets/chibi-coffee.svg" alt="chibi sipping coffee" height="72" />
-  <img src="assets/chibi-type.svg" alt="chibi typing calmly" height="72" />
-  <img src="assets/chibi-star.svg" alt="chibi holding a star" height="72" />
-  <img src="assets/chibi-read.svg" alt="chibi reading a book" height="72" />
+  <!-- Swap these to .gif when available (keep filenames; change extension) -->
+  <img src="assets/chibi-star.svg" alt="Kurumi gothic sparkle chibi (star, red–gold accents)" height="72" />
+  <img src="assets/chibi-type.svg" alt="Nino tsundere chibi typing (pink–purple)" height="72" />
+  <img src="assets/chibi-read.svg" alt="Mahiru chibi reading softly (blue–white)" height="72" />
+  <img src="assets/chibi-wave.svg" alt="Mahiru chibi waving hello (gentle)" height="72" />
 </div>
 
 <p align="center">
