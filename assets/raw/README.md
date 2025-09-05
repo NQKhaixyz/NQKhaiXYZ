@@ -5,8 +5,8 @@ Drop the source images (from your attachments) here with EXACT filenames below, 
 Mapping (based on your images):
 - kurumi-gothic.jpg — the red/black gothic dress with clock background (Kurumi)
 - nino-tsundere.jpg — the pink-haired girl with blue butterfly clips (Nino)
-- maihru-cozy.jpg — the blonde girl in a teddy bear kigurumi holding a teddy (Mahiru)
-- maihru-hero.jpg — the chibi blonde cat-hoodie with popsicle (Mahiru)
+- mahiru-cozy.jpg — the blonde girl in a teddy bear kigurumi holding a teddy (Mahiru)
+- mahiru-hero.jpg — the chibi blonde cat-hoodie with popsicle (Mahiru)
 - banner-source.jpg — (optional) a composite/banner source; if not available, skip
 - avatar-source.jpg — (optional) a square avatar source; if not available, skip
 
