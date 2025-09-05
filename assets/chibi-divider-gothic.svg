@@ -1,0 +1,16 @@
+<svg width="220" height="20" viewBox="0 0 220 20" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="gothic sparkle divider">
+<defs>
+  <linearGradient id="lg" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#111827"/>
+    <stop offset="100%" stop-color="#1f2937"/>
+  </linearGradient>
+</defs>
+<rect x="0" y="9" width="220" height="2" fill="url(#lg)"/>
+<g fill="#d4af37">
+  <circle cx="20" cy="10" r="1.5"/>
+  <circle cx="200" cy="10" r="1.5"/>
+</g>
+<g fill="#d4af37" opacity="0.9">
+  <path d="M110 3 L113 10 L110 17 L107 10 Z"/>
+</g>
+</svg>

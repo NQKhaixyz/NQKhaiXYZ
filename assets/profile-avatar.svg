@@ -1,0 +1,24 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="soft blue-white avatar with sparkles">
+<defs>
+  <radialGradient id="bg" cx="50%" cy="40%" r="70%">
+    <stop offset="0%" stop-color="#ffffff"/>
+    <stop offset="100%" stop-color="#f0f6ff"/>
+  </radialGradient>
+  <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#a6c8ff"/>
+    <stop offset="100%" stop-color="#1e90ff"/>
+  </linearGradient>
+</defs>
+<circle cx="200" cy="200" r="190" fill="url(#bg)" stroke="url(#ring)" stroke-width="8"/>
+<!-- sparkles -->
+<g fill="#9ec8ff">
+  <circle cx="120" cy="110" r="3"/>
+  <circle cx="280" cy="90" r="2.5"/>
+  <circle cx="320" cy="220" r="2.5"/>
+  <circle cx="90" cy="250" r="2"/>
+</g>
+<!-- initials -->
+<g font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif" font-weight="700">
+  <text x="50%" y="55%" text-anchor="middle" fill="#1e90ff" font-size="110">CM</text>
+</g>
+</svg>

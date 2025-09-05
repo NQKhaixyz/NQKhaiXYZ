@@ -1,0 +1,13 @@
+<svg width="72" height="72" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="placeholder chibi sipping coffee">
+  <rect width="72" height="72" fill="#f7f9ff"/>
+  <rect x="18" y="34" width="32" height="18" rx="6" fill="#e7f1ff" stroke="#1e90ff"/>
+  <rect x="44" y="38" width="8" height="10" rx="4" fill="#e7f1ff" stroke="#1e90ff"/>
+  <g>
+    <path d="M28 30 C30 26, 32 26, 34 30" stroke="#1e90ff" fill="none" stroke-width="2">
+      <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M34 30 C36 26, 38 26, 40 30" stroke="#1e90ff" fill="none" stroke-width="2">
+      <animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg width="220" height="20" viewBox="0 0 220 20" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="tiny chibi divider">
+  <rect x="0" y="9" width="220" height="2" fill="#1e90ff" opacity="0.25"/>
+  <g>
+    <circle cx="110" cy="10" r="2.5" fill="#1e90ff">
+      <animate attributeName="r" values="2.5;3.2;2.5" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="100" cy="10" r="1.5" fill="#8a7cf4"/>
+    <circle cx="120" cy="10" r="1.5" fill="#d4af37"/>
+  </g>
+</svg>

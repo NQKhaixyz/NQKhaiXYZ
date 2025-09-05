@@ -1,0 +1,31 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="starry soft-blue gradient banner">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#e7f1ff"/>
+    <stop offset="100%" stop-color="#f7f9ff"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="50%" cy="30%" r="60%">
+    <stop offset="0%" stop-color="#ffffff" stop-opacity="0.6"/>
+    <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="1280" height="360" fill="url(#g)"/>
+<circle cx="1040" cy="60" r="220" fill="url(#glow)"/>
+<!-- stars -->
+<g fill="#9ec8ff">
+  <circle cx="120" cy="80" r="2"/>
+  <circle cx="300" cy="60" r="1.5"/>
+  <circle cx="460" cy="110" r="2"/>
+  <circle cx="720" cy="40" r="1.5"/>
+  <circle cx="980" cy="120" r="2"/>
+  <circle cx="1140" cy="90" r="1.5"/>
+  <circle cx="200" cy="180" r="1.5"/>
+  <circle cx="860" cy="200" r="1.5"/>
+</g>
+<!-- title -->
+<g font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif">
+  <text x="60" y="160" fill="#1e90ff" font-size="44" font-weight="700">Nguyễn Quang Khải · Choco Mica</text>
+  <text x="60" y="205" fill="#2b2b2b" font-size="22" font-weight="500">“tôi yêu Micaa và choco”</text>
+  <text x="60" y="245" fill="#6b7280" font-size="18">Gentle, cozy, wholesome — professional with cute chibi touches</text>
+</g>
+</svg>

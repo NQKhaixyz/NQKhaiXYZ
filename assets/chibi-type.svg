@@ -1,0 +1,13 @@
+<svg width="72" height="72" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="placeholder chibi typing calmly">
+  <rect width="72" height="72" fill="#f7f9ff"/>
+  <rect x="12" y="32" width="48" height="18" rx="4" fill="#e7f1ff" stroke="#1e90ff"/>
+  <circle cx="28" cy="50" r="2" fill="#1e90ff">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="36" cy="50" r="2" fill="#1e90ff">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.2s" begin="0.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="44" cy="50" r="2" fill="#1e90ff">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.2s" begin="0.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
