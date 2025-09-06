@@ -28,8 +28,11 @@ kenburns_gif() {
   local tmpdir
   tmpdir=$(mktemp -d)
   # Prepare base square
-  convert "$in" -resize ${size}x${size}^ -gravity center -extent ${size}x${size} "$tmpdir/start.png"
-  convert "$tmpdir/start.png" -resize $endzoom -gravity center -extent ${size}x${size} "$tmpdir/end.png"
+  if ! command -v convert >/dev/null 2>&1; then
+    echo "ImageMagick 'convert' not found" >&2; rm -rf "$tmpdir"; return 1
+  fi
+  convert "$in" -resize "${size}x${size}^" -gravity center -extent "${size}x${size}" "$tmpdir/start.png"
+  convert "$tmpdir/start.png" -resize "$endzoom" -gravity center -extent "${size}x${size}" "$tmpdir/end.png"
   convert -delay 6 \( "$tmpdir/start.png" "$tmpdir/end.png" -morph $morph \) -loop 0 "$tmpdir/out.gif"
   if command -v gifsicle >/dev/null 2>&1; then
     gifsicle -O3 --colors=128 --lossy=30 "$tmpdir/out.gif" -o "$out"

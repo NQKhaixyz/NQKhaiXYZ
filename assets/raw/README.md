@@ -1,18 +1,18 @@
 # Raw Assets Staging
 
-Drop the source images (from your attachments) here with EXACT filenames below, then push. CI will auto-generate optimized assets.
+Drop your source images here with EXACT filenames below, then push. CI will auto-generate optimized assets and update the main README to use the new GIFs.
 
 Mapping (based on your images):
-- kurumi-gothic.jpg — the red/black gothic dress with clock background (Kurumi)
-- nino-tsundere.jpg — the pink-haired girl with blue butterfly clips (Nino)
-- mahiru-cozy.jpg — the blonde girl in a teddy bear kigurumi holding a teddy (Mahiru)
-- mahiru-hero.jpg — the chibi blonde cat-hoodie with popsicle (Mahiru)
-- banner-source.jpg — (optional) a composite/banner source; if not available, skip
-- avatar-source.jpg — (optional) a square avatar source; if not available, skip
+- kurumi-gothic.jpg — red/black gothic dress with clock background (Kurumi)
+- nino-tsundere.jpg — pink-haired with blue butterfly clips (Nino)
+- mahiru-cozy.jpg — blonde in teddy bear kigurumi holding a teddy (Mahiru)
+- mahiru-hero.jpg — chibi blonde cat-hoodie with popsicle (Mahiru)
+- banner-source.jpg — (optional) banner base image (1280×360 target)
+- avatar-source.jpg — (optional) avatar base image (400×400 target)
 
-If your files are PNG, just use .png extension with the same base name.
+If your files are PNG, use the same base name with `.png`.
 
-After pushing, the workflow will render:
+After push, workflow will render to:
 - assets/chibi-star.gif (Kurumi)
 - assets/chibi-type.gif (Nino)
 - assets/chibi-read.gif (Mahiru)
@@ -23,4 +23,6 @@ After pushing, the workflow will render:
 
 Local alternative:
 - Ensure ImageMagick + gifsicle (and pngquant optional) are installed
-- Run: ./scripts/generate-assets.sh
+- Run: `./scripts/generate-assets.sh` then `./scripts/swap-readme-to-gif.sh`
+
+Rights: only use images you own or have permission to use (see `ASSETS_RIGHTS.md`).
