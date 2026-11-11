@@ -6,6 +6,12 @@
   <sub>Choco Mica · Hanoi, Vietnam</sub>
 </p>
 
+<p align="center">
+  <a href="https://time.is/Hanoi">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftimeapi.io%2Fapi%2Ftime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%252FHo_Chi_Minh&amp;query=%24.time&amp;label=Hanoi+time+%28UTC%2B7%29&amp;color=0969DA&amp;labelColor=30363D&amp;style=flat&amp;cacheSeconds=300" height="20" alt="Local time in Hanoi (UTC+7)">
+  </a>
+</p>
+
 I build software for multilingual document retrieval, distributed storage, and on-chain applications.
 
 ## Selected projects
@@ -62,3 +68,23 @@ Worked on the VIDDHANA ecosystem, integrating smart contracts for tokenized asse
 - **Third Prize** · BlockTrain Program Phase II (2025)
 - **First Prize** · ICPC Asia Hue City Regional Contest, high school division (2023)
 - **Second Prize** · Central and Highlands Informatics Olympiad, specialized division (2023)
+
+## GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NQKhaixyz&amp;theme=github_dark&amp;animation=draw">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NQKhaixyz&amp;theme=github&amp;animation=draw" width="700" alt="Daily GitHub contributions over the past year">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NQKhaixyz&amp;theme=github_dark&amp;utcOffset=7&amp;animation=draw">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NQKhaixyz&amp;theme=github&amp;utcOffset=7&amp;animation=draw" width="340" alt="GitHub commits by hour in Hanoi (UTC+7)">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NQKhaixyz&amp;theme=github_dark&amp;animation=load">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NQKhaixyz&amp;theme=github&amp;animation=load" width="340" alt="GitHub statistics for commits, pull requests, issues, and stars">
+  </picture>
+</p>
