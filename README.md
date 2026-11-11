@@ -10,7 +10,7 @@ I build software for multilingual document retrieval, distributed storage, and o
 
 ## Selected projects
 
-### [Medical Guidline Chatbot](https://medibot.leira.com.vn/)
+### [Medical Guideline Chatbot](https://medibot.leira.com.vn/)
 
 Contributed to a lab chatbot for querying medical guidelines. The system extracts text from PDFs with OCR when needed, retrieves and reranks relevant passages, and streams answers based on those passages.
 
